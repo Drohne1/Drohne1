@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drohne1
-- 👀 I’m interested in Python, Java, Kotlin, 
+- 👀 I’m interested in Python, Java, Kotlin, HTML, CSS
 - 🌱 I’m currently learning Kotlin, Jetpack Compose
 - 💞️ I’m looking to collaborate on interesting projects and learn new things.
 - 📫 How to reach me lutz.sauer@yahoo.de
